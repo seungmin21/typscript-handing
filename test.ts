@@ -20,6 +20,6 @@ function add (x : string , y : string) {
 
 const insa : string = "hello";
 const basic : string = " world!";
-const result : string = add(insa, basic);
+const result = add(insa, basic);
 
 console.log(result);
